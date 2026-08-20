@@ -184,7 +184,7 @@ export default function SecureDashboard() {
 
 <p align="center">
   <a href="https://github.com/AzzamCyber">
-    <img src="https://github-readme-stats.vercel.app/api?username=AzzamCyber&show_icons=true&theme=transparent&hide_border=true&title_color=2C3E50&icon_color=2C3E50&text_color=000000" alt="AzzamCyber GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AzzamCyber&show_icons=true&theme=tokyonight" alt="AzzamCyber GitHub Stats"/>
   </a>
 </p>
 

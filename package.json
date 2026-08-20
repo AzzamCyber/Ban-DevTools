@@ -1,6 +1,6 @@
 {
   "name": "ban-devtools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight React/Next.js component and hook to prevent inspecting elements and using developer tools.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
