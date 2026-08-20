@@ -9,10 +9,10 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/AzzamCyber/ban-devtools/stargazers"><img src="https://img.shields.io/github/stars/AzzamCyber/ban-devtools?style=for-the-badge&color=2C3E50" alt="Stars Badge"/></a>
+  <a href="https://github.com/AzzamCyber/Ban-DevTools/stargazers"><img src="https://img.shields.io/github/stars/AzzamCyber/Ban-DevTools?style=for-the-badge&color=2C3E50" alt="Stars Badge"/></a>
   <a href="https://www.npmjs.com/package/ban-devtools"><img src="https://img.shields.io/npm/dt/ban-devtools?style=for-the-badge&color=000000" alt="NPM Downloads"/></a>
   <a href="https://www.npmjs.com/package/ban-devtools"><img src="https://img.shields.io/npm/v/ban-devtools?style=for-the-badge&color=34495E" alt="NPM Version"/></a>
-  <a href="https://github.com/AzzamCyber/ban-devtools/blob/master/LICENSE"><img src="https://img.shields.io/github/license/AzzamCyber/ban-devtools?style=for-the-badge&color=BDC3C7" alt="License Badge"/></a>
+  <a href="https://github.com/AzzamCyber/Ban-DevTools/blob/main/LICENSE"><img src="https://img.shields.io/github/license/AzzamCyber/Ban-DevTools?style=for-the-badge&color=BDC3C7" alt="License Badge"/></a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Maintained-Active-000000?style=flat-square" alt="Maintained"/>
 </p>
 
-<a href="https://github.com/AzzamCyber/ban-devtools">
+<a href="https://github.com/AzzamCyber/Ban-DevTools">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Advanced+Debugger+Trap;Heuristic+Resize+Detection;Shortcut+Interception;Zero-Dependency+Architecture" alt="Typing SVG" />
 </a>
 
